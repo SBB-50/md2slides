@@ -9,7 +9,7 @@ Requirements:
 Usage
 
 `
-python3 input.md output.pdf
+python3 main.py input.md output.pdf
 `
 
 with output.pdf being optional
