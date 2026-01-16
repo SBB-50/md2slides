@@ -10,4 +10,5 @@ Usage
 `
 python3 input.md output.pdf
 `
+
 with output.pdf being optional
